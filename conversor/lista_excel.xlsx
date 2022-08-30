@@ -1,0 +1,123 @@
+Código,Produto,Jan,Fev,Mar,Total 1o Trim.,Máximo,Mínimo,Média
+1,Porca,"4.500,00","5.040,00","5.696,00",,,,
+2,Parafuso,"6.250,00","7.000,00","7.910,00",,,,
+3,Arruela,"3.300,00","3.696,00","4.176,00",,,,
+4,Prego,"8.000,00","8.690,00","10.125,00",,,,
+5,Alicate,"4.557,00","5.104,00","5.676,00",,,,
+6,Martelo,"3.260,00","3.640,00","4.113,00",,,,
+Totais
+Código,Produto,Abr,Mai,Jun,Total 2o Trim.,Máximo,Mínimo,Média
+1,Porca,"6.265,00","6.954,00","7.858,00",,,,
+2,Parafuso,"8.701,00","9.658,00","10.197,00",,,,
+3,Arruela,"4.569,00","5.099,00","5.769,00",,,,
+4,Prego,"12.341,00","12.365,00","13.969,00",,,,
+5,Alicate,"6.344,00","7.042,00","7.957,00",,,,
+6,Martelo,"4.525,00","5.022,00","5.671,00",,,,
+Totais
+Total do
+Semestre
+"",JANEIRO FEVEREIRO,MARÇO,ABRIL,MAIO,,JUNHO
+SALÁRIO,"R$500,00  R$","750,00  R$","800,00  R$","700,00  R$",,"654,00  R$700,00"
+CONTAS,,,,,,,
+ÁGUA,R$,"10,00  R$","15,00  R$","15,00  R$","12,00  R$","12,00  R$","11,00"
+LUZ,R$,"50,00  R$","60,00  R$","54,00  R$","55,00  R$","54,00  R$","56,00"
+ESCOLA,R$,"300,00  R$","250,00  R$","300,00  R$","300,00  R$","200,00  R$","200,00"
+IPTU,R$,"40,00  R$","40,00  R$","40,00  R$","40,00  R$","40,00  R$","40,00"
+IPVA,R$,"10,00  R$","15,00  R$","14,00  R$","15,00  R$","20,00  R$","31,00"
+SHOPPING,R$,"120,00  R$","150,00  R$","130,00  R$","200,00  R$","150,00  R$","190,00"
+COMBUSTÍVEL,R$,"50,00  R$","60,00  R$","65,00  R$","70,00  R$","65,00  R$","85,00"
+ACADEMIA,R$,"145,00  R$","145,00  R$","145,00  R$","145,00  R$","100,00  R$","145,00"
+TOTAL DE
+CONTAS
+SALDO
+No,NOME,Salário Bruto,INSS,Gratificação,INSS R$,Gratificação R$,Salário Líquido
+1,Eduardo,"R$853,00","10,00%","9,00%",,,
+2,Maria,"R$951,00","9,99%","8,00%",,,
+3,Helena,"R$456,00","8,64%","6,00%",,,
+4,Gabriela,"R$500,00","8,50%","6,00%",,,
+5,Edson,"R$850,00","8,99%","7,00%",,,
+6,Elisangela,"R$459,00","6,25%","5,00%",,,
+7,Regina,"R$478,00","7,12%","5,00%",,,
+8,Paulo,"R$658,00","5,99%","4,00%",,,
+Valor do Dólar R$,"2,94",,,,
+Papelaria Papel Branco,,,,,
+Produtos,Qtde,,Preço Unit.,Total R$,Total US$
+Caneta Azul,500,,"R$0,15",,
+Caneta Vermelha,750,,"R$0,15",,
+Caderno,250,,"R$  10,00",,
+Régua,310,,"R$0,50",,
+Lápis,500,,"R$0,10",,
+Papel Sulfite,1500,,"R$2,50",,
+Tinta Nanquim,190,,"R$6,00",,
+Nome,Salário,,Aumento,Novo Salário,,
+João dos Santos,"R$900,00",,"R$360,00","R$1.260,00",,
+Maria da Silva,"R$1.200,00",,,,"Até 1000,00",40%
+Manoel das Flores,"R$1.500,00",,,,"mais 1000,00",30%
+Lambarildo Peixe,"R$2.000,00",,,,,
+Sebastião Souza,"R$1.400,00",,,,,
+Ana Flávia Silveira,"R$990,00",,,,,
+Silvia Helena Santos,"R$854,00",,,,,
+Alberto Roberto,"R$1.100,00",,,,,
+Maria da Silva,R$,"1.200,00","Até 1000,00",40%
+Manoel das Flores,R$,"1.500,00","mais 1000,00",30%
+Receita bruta,Jan-Mar,Abr-Jun,Jul-Set,Out-Dez,Total do Ano
+"","140.000,00","165.000,00","208.000,00","280.000,00",
+Despesa Líquida,Jan-Mar,Abr-Jun,Jul-Set,Out-Dez,Total do Ano
+Salários,"20.000,00","26.000,00","33.800,00","43.940,00",
+Juros,"20.000,00","15.600,00","20.280,00","26.364,00",
+Aluguel,"12.000,00","20.930,00","27.209,00","35.371,70",
+Propaganda,"16.100,00","28.870,00","33.631,00","43.720,30",
+Suprimentos,"19.900,00","39.000,00","50.700,00","65.910,00",
+Diversos,"25.000,00","32.500,00","42.250,00","54.925,00",
+Total do Trim.,
+Receita líquida,
+Situação,
+"",Valor Acumulado do ano de despesas
+FUNÇÃO SE,,,,
+"",,,,
+"",,,,
+Controle de Vendas,,,Controle de Idade,
+Produto Jan,Fev,Resultado,Idade do Candidato,20
+"A 4.665,00","4.654,00",,Idade Mínima,18
+"B 16.574,00","24.348,00",,Idade Máxima,24
+"C 1.654,00","6.468,00",,,
+"D 654,00","654,00",,Resultado:,
+"E 413,00","434,00",,,
+"F 65.765,00","54.646,00",,,
+Nome,Endereço,Bairro,Cidade,Estado
+Ana,"Rodovia Anhanguera, km 180",Centro,Leme,SP
+Eduardo,"R. Antônio de Castro, 362",São Benedito,Araras,SP
+Érica,"R. Tiradentes, 123",Centro,Salvador,BA
+Fernanda,"Av. Orozimbo Maia, 987",Jd. Nova Campinas,Campinas,SP
+Gabriela,"Rodovia Rio/São Paulo, km 77",Praia Grande,Ubatuba,SP
+Helena,"R. Júlio Mesquita, 66",Centro,Recife,PE
+Katiane,"R. 5, 78",Jd. Europa,Rio Claro,SP
+Lilian,"R. Lambarildo Peixe, 812",Vila Tubarão,Ribeirão Preto,SP
+Lucimara,"Av. dos Jequitibas, 11",Jd. Paulista,Florianópolis,SC
+Maria,"Av. Ipiranga, 568",Ibirapuera,Manaus,AM
+Pedro,"R. Sergipe, 765",Botafogo,Campinas,SP
+Roberto,"Av. Limeira, 98",Belvedere,Araras,SP
+Rubens,"Al. dos Laranjais, 99",Centro,Rio de Janeiro,RJ
+Sônia,"R. das Quaresmeiras, 810",Vila Cláudia,Porto Alegre,RS
+Tatiane,"R. Minas Gerais, 67",Parque Industrial,Poços de Caldas,MG
+Nome,Rubens
+Endereço,
+Bairro,
+Cidade,
+Estado,
+Porc. De Lucro,"12,50%",Araras/SP
+Valor do Dólar:,"3,34",
+"",,,Reais,,,Dólar,
+Produto,Estoque,Custo,Venda,Total,Custo,Venda,Total
+Borracha,500,"0,50","0,55",,,,
+Caderno 100 fls,200,"2,57","2,70",,,,
+Caderno 200 fls,300,"5,00","5,50",,,,
+Caneta Azul,1000,"0,15","0,25",,,,
+Caneta Vermelha,1000,"0,15","0,25",,,,
+Lapiseira,200,"3,00","3,50",,,,
+Régua 15 cm,500,"0,25","0,30",,,,
+Régua 30 cm,500,"0,35","0,45",,,,
+Giz de Cera,50,"6,00","6,50",,,,
+Cola,100,"3,14","4,00",,,,
+Compasso,100,"5,68","6,00",,,,
+Totais,,,,,,,
